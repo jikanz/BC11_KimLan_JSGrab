@@ -1,0 +1,41 @@
+  <thead>
+    <tr>
+      <th colspan="4" >CHI TIẾT HÓA ĐƠN</th>
+    </tr>
+  </thead>
+  <tbody id="tBodyHoaDon">
+    <tr>
+      <td>CHI TIẾT</td>
+      <td>SỬ DỤNG </td>
+      <td>ĐƠN GIÁ</td>
+      <td>THÀNH TIỀN</td>
+    </tr>
+   <tr>
+      <td>KM ĐẦU TIÊN</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+   <tr>
+      <td>TỪ 1 đến 19 KM</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+   <tr>
+      <td>TỪ 20 KM TRỞ LÊN</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+   <tr>
+      <td>THỜI GIAN CHỜ</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th colspan="4" >tổng tiền :</th>
+    </tr>
+  </tbody>
+</table>
